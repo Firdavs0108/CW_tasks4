@@ -7,6 +7,7 @@ function sumStr(a,b) {
     let key = num + num2
     
    console.log(key);
+   
 }
 
 sumStr('20','30')
