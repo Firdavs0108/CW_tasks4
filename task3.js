@@ -1,5 +1,6 @@
 
 
+
 function divisibleBy(numbers, divisor) {
    let key =  numbers.filter(n => n % divisor === 0)
    console.log(key);
